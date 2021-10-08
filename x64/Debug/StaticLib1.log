@@ -1,0 +1,6 @@
+﻿  StaticLib1.cpp
+C:\Users\proftest\source\repos\StaticLib1\StaticLib1.cpp(245,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+sfml-window-d.lib(sfml-window-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в sfml-graphics-d.lib(sfml-graphics-d-2.dll); второе определение пропущено
+sfml-audio-d.lib(sfml-audio-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в sfml-graphics-d.lib(sfml-graphics-d-2.dll); второе определение пропущено
+sfml-system-d.lib(sfml-system-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в sfml-graphics-d.lib(sfml-graphics-d-2.dll); второе определение пропущено
+  StaticLib1.vcxproj -> C:\Users\proftest\source\repos\StaticLib1\x64\Debug\StaticLib1.lib

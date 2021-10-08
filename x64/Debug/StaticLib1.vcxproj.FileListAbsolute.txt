@@ -1,0 +1,2 @@
+C:\Users\proftest\source\repos\StaticLib1\x64\Debug\StaticLib1.lib
+C:\Users\proftest\source\repos\StaticLib1\x64\Debug\StaticLib1.pdb
